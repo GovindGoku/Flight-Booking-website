@@ -1,4 +1,4 @@
-# Flight-Booking-Site
+# Flight-Booking-website
 
 # React SCSS Website
 
