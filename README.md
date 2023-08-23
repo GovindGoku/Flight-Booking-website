@@ -8,7 +8,7 @@
 
 ### Prerequisites
 
-Make sure you have Node.js and npm (Node Package Manager) installed on your machine.
+Make sure you have Node.js and npm (Node Package Manager) installed on your system.
 
 ### Installation
 
